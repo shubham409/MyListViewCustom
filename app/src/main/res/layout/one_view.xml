@@ -10,9 +10,14 @@
         >
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="320dp"/>
+        android:layout_height="320dp"
+        android:id="@+id/myimage"
+
+        />
     <TextView
         android:layout_width="match_parent"
-        android:layout_height="80dp"/>
+        android:layout_height="80dp"
+        android:id="@+id/mytext"
+        />
     </LinearLayout>
 </LinearLayout>
